@@ -20,7 +20,7 @@ body{
 	width: 960px;
 	margin: 15px auto;
 	text-align: left;
-	background: "#aa12f4";
+	background: "#111111";
 }
 
 #cabecera{
@@ -31,7 +31,7 @@ body{
 	padding: 20px;
 }
 #menu{
-	background: #cccccc;
+	background: #aabbcc;
 	padding: 5px 15px;
 }
 
@@ -40,7 +40,7 @@ body{
 	list-style: none;
 	padding: 5px;
 	color: #ffffff;
-	text-align: center;
+	text-align: left;
 	font: bold 14px verdana, sans-serif;
 	width: 200px;
 	background: #345623;
@@ -69,7 +69,7 @@ body{
 }
 
 article{
-	background: #fffbcc;
+	background: #ccffaa;
 	border: 1px solid #999999;
 	padding: 20px;
 	margin-bottom: 15px;
